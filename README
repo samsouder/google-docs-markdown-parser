@@ -1,0 +1,1 @@
+Reads and parses the HTML output of Google Docs' document publishing. This is crude, but it works as a quick data store for some Markdown-formatted text. I wouldn't trust Google Docs' published pages to be up all the time or that the format of the output will stay as it is. If you need a robust solution try their Docs API.
